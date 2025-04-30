@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "login",
     "slug": "snack-7ce77a5e-c356-4ca4-9a3b-090d90b8be03",
+=======
+    "name": "ineed-tela-login",
+    "slug": "snack-26464b37-0e7e-498a-940b-2512b7a2b368",
+>>>>>>> fdfd04cadd3b3b034f2acfa21c787fbdf36c16c0
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

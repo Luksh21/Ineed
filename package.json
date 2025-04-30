@@ -8,6 +8,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
     "expo": "~52.0.46",
     "expo-status-bar": "~2.0.1",
     "react": "18.3.1",
@@ -22,6 +23,15 @@
     "@react-navigation/native-stack": "*",
     "react-native-safe-area-context": "4.12.0",
     "react-native-reanimated-carousel": "4.0.2"
+=======
+    "expo": "~52.0.41",
+    "expo-status-bar": "~2.0.1",
+    "react": "18.3.1",
+    "react-native": "0.76.7",
+    "@expo/vector-icons": "^14.0.2",
+    "react-native-paper": "4.9.2",
+    "@react-navigation/native": "*"
+>>>>>>> fdfd04cadd3b3b034f2acfa21c787fbdf36c16c0
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
