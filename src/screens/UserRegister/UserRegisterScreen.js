@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Text, View, TextInput, FlatList, TouchableOpacity, StyleSheet, Animated } from 'react-native';
+import { Text, View, TextInput, FlatList, TouchableOpacity, Animated } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import styles from '../../styles/registerStyles.js';
+import { handleRegister } from '../../hooks/userRegister'; // Importa a função
 
 export default function App() {
   const passwordRequirements = [
@@ -46,6 +47,16 @@ export default function App() {
       setError('Senhas não coincidem');
     } else {
       setError('');
+    }
+  };
+
+  const handleSubmit = async () => {
+    const result = await handleRegister(cpf, nome, usuario, password, confirmPassword);
+    if (result.success) {
+      alert('Cadastro realizado com sucesso!');
+      // Você pode navegar para a tela de login ou outra tela
+    } else {
+      setError(result.error); // Exibe o erro, se houver
     }
   };
 
@@ -159,8 +170,8 @@ export default function App() {
 
         {step >= 5 && (
           <Animated.View style={{ opacity: anims[5] }}>
-            <TouchableOpacity style={styles.loginButton}>
-              <Text style={styles.loginButtonText}>Continuar</Text>
+            <TouchableOpacity style={styles.loginButton} onPress={handleSubmit}>
+              <Text style={styles.loginButtonText}>Cadastrar</Text>
             </TouchableOpacity>
           </Animated.View>
         )}
@@ -170,4 +181,3 @@ export default function App() {
     </View>
   );
 }
-

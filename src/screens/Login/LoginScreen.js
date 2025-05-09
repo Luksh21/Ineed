@@ -2,11 +2,20 @@ import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, Image } from 'react-native';
 import styles from '../../styles/loginStyles';
 import { usePasswordVisibility } from '../../utils/usePasswordVisibility';
-
+import { supabase } from '../../services/supabaseClient';
+import {useLogin} from '../../hooks/useLogin';
 
 export default function LoginScreen({ navigation }) {
   const { isVisible, toggleVisibility, icon } = usePasswordVisibility();
-
+  const {
+    identifier,
+    setIdentifier,
+    password,
+    setPassword,
+    error,
+    loading,
+    handleLogin,
+  } = useLogin();
   return (
     <View style={styles.container}>
       <Image source={require('../../assets/ineed.png')} style={styles.logo} />
@@ -14,7 +23,13 @@ export default function LoginScreen({ navigation }) {
       <View style={styles.formContainer}>
         <View style={styles.inputContainer}>
           <Text style={styles.label}>Nome de Usuário / Email / CPF</Text>
-          <TextInput style={styles.input} placeholder="exemplo@email.com" keyboardType="email-address" />
+          <TextInput 
+          style={styles.input} 
+          placeholder="exemplo@email.com" 
+          keyboardType="email-address"
+          value ={identifier}
+          onChangeText={setIdentifier}
+          />
         </View>
 
         <View style={styles.inputContainer}>
@@ -24,6 +39,8 @@ export default function LoginScreen({ navigation }) {
               style={styles.inputPassword} 
               placeholder="******" 
               secureTextEntry={!isVisible} 
+              value={password}
+              onChangeText={setPassword}
             />
             <TouchableOpacity onPress={toggleVisibility} style={styles.iconPassword}>
               <Image
@@ -34,8 +51,10 @@ export default function LoginScreen({ navigation }) {
           </View>
         </View>
 
-        <TouchableOpacity style={styles.loginButton}>
-          <Text style={styles.loginButtonText}>Entrar</Text>
+        <TouchableOpacity style={styles.loginButton} onPress={handleLogin} disabled={loading}>
+          <Text style={styles.loginButtonText}>
+          {loading ? 'Entrando...' : 'Entrar'}
+          </Text>
         </TouchableOpacity>
 
         <TouchableOpacity style={{ width: '100%' }}>

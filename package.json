@@ -15,6 +15,7 @@
     "@expo/vector-icons": "^14.0.2",
     "react-native-paper": "4.9.2",
     "react-native-screens": "~4.4.0",
+    "@supabase/supabase-js": "*",
     "react-native-reanimated": "~3.16.1",
     "@react-navigation/native": "*",
     "react-native-snap-carousel": "*",
