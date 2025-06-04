@@ -1,11 +1,22 @@
 # Ineed Serviços - Você precisa, a gente encontra!!!
 
-![ineed](https://github.com/user-attachments/assets/cdf91c47-d570-4516-ae7f-46e25bf314dd)
+<!-- Redimensiona a imagem principal -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cdf91c47-d570-4516-ae7f-46e25bf314dd" alt="Ineed logo" width="400"/>
+</p>
 
 - Plataforma de Conexão entre Prestadores de Serviços e Clientes
 
+---
+
 # Telas
 
-Tela Inicial do App:
-<img src="https://drive.google.com/file/d/1XLJr9Bipl43Qt79VPnV0KKu1qWrjq1Cx/view" alt="Minha imagem" height="300"/>
-https://drive.google.com/file/d/1XLJr9Bipl43Qt79VPnV0KKu1qWrjq1Cx/view
+### 📱 Tela Inicial do App:
+
+<!-- IMPORTANTE: Imagens do Google Drive com /view não funcionam diretamente no README. Use o link direto da imagem. -->
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1XLJr9Bipl43Qt79VPnV0KKu1qWrjq1Cx" alt="Tela inicial do app" height="300"/>
+</p>
+
+🔗 [Ver imagem em tamanho completo](https://drive.google.com/file/d/1XLJr9Bipl43Qt79VPnV0KKu1qWrjq1Cx/view)
