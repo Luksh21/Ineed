@@ -7,4 +7,4 @@
 # Telas
 
 Tela Inicial do App:
-<img src="![Screenshot_20250604_161728_Expo Go](https://github.com/user-attachments/assets/17aa17db-be3d-4fd8-a7fb-48de8c508b30)" alt="Minha imagem" height="300"/>
+<img src="https://drive.google.com/file/d/1XLJr9Bipl43Qt79VPnV0KKu1qWrjq1Cx/view" alt="Minha imagem" height="300"/>
