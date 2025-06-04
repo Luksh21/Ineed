@@ -16,5 +16,5 @@
 <!-- IMPORTANTE: Imagens do Google Drive com /view não funcionam diretamente no README. Use o link direto da imagem. -->
 
 <p align="center">
-  <img src="[https://drive.google.com/file/d/1XLJr9Bipl43Qt79VPnV0KKu1qWrjq1Cx/view?usp=sharing]" alt="Tela inicial do app" height="300"/>
+  <img src="https://drive.google.com/file/d/1XLJr9Bipl43Qt79VPnV0KKu1qWrjq1Cx/view?usp=sharing" alt="Tela inicial do app" height="300"/>
 </p>
