@@ -16,7 +16,7 @@
 <!-- IMPORTANTE: Imagens do Google Drive com /view não funcionam diretamente no README. Use o link direto da imagem. -->
 
 <p align="center">
-  <img src="https://i.imgur.com/ROAvqMF.jpeg" alt="Tela inicial do app" height="300"/>
+  <img src="https://i.imgur.com/ROAvqMF.jpeg" alt="Tela inicial do app" height="400"/>
   <img src="https://i.imgur.com/3cYfuaQ.gif" alt="Vídeo animado" width="400"/>
 </p>
  
