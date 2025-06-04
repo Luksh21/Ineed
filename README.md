@@ -46,3 +46,9 @@
 <p align="center">
   <img src="https://i.imgur.com/cJH6r4L.jpeg" alt="Tela inicial do app" height="400"/>
 </p>
+
+### 🧖‍♂️ Tela Main/ Perfil:
+
+<p align="center">
+  <img src="https://i.imgur.com/1ITTjVq.jpeg" alt="Tela inicial do app" height="400"/>
+</p>
