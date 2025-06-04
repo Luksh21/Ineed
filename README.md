@@ -38,5 +38,11 @@
 ### 💡 Tela Main/ Feed:
 
 <p align="center">
-  <img src="https://i.imgur.com/biDu1eW.jpeg" alt="Tela inicial do app" height="400"/> <img src="https://i.imgur.com/tZEtQti.jpeg" alt="Tela inicial do app" height="400"/>
+  <img src="https://i.imgur.com/biDu1eW.jpeg" alt="Tela inicial do app" height="400"/>
+</p>
+
+### 🔎 Tela Main/ Buscar Serviço:
+
+<p align="center">
+  <img src="https://i.imgur.com/cJH6r4L.jpeg" alt="Tela inicial do app" height="400"/>
 </p>
