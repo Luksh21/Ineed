@@ -23,14 +23,20 @@
 
 # Telas📱
 
-### 🏚️ Tela Inicial do App:
+### 🏚️ Tela Inicial:
 
 <p align="center">
   <img src="https://i.imgur.com/ROAvqMF.jpeg" alt="Tela inicial do app" height="400"/>
 </p>
 
-### Tela de Cadastro do App:
+### 📋 Tela de Cadastro:
 
 <p align="center">
   <img src="https://i.imgur.com/codECX4.jpeg" alt="Tela inicial do app" height="400"/> <img src="https://i.imgur.com/tZEtQti.jpeg" alt="Tela inicial do app" height="400"/>
+</p>
+
+### 💡 Tela Main/ Feed:
+
+<p align="center">
+  <img src="https://i.imgur.com/biDu1eW.jpeg" alt="Tela inicial do app" height="400"/> <img src="https://i.imgur.com/tZEtQti.jpeg" alt="Tela inicial do app" height="400"/>
 </p>
