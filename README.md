@@ -17,6 +17,8 @@
 
 <p align="center">
   <img src="https://i.imgur.com/ROAvqMF.jpeg" alt="Tela inicial do app" height="300"/>
-  <img src="https://i.imgur.com/3cYfuaQ.gif" alt="Vídeo animado" width="400" />
+  <img src="https://i.imgur.com/3cYfuaQ.gif" alt="Vídeo animado" width="400"/>
+</p>
+ 
 
 ### Tela de Cadastro do App:
