@@ -13,6 +13,13 @@
 - Supabase (Banco de dados e autenticação)
 - HTML, CSS, JavaScript (interface Web para o Prestador de Serviço). Projeto HTML em estágio inicial. Será implementado futuramente
 
+## 🔍 Funcionalidades
+
+- ✅ Cadastro de clientes
+- 🚧 Cadastro de prestadores (em desenvolvimento)
+- ✅ Login com autenticação via Supabase
+- ✅ Cadastro de clientes via supabase.auth.signUp
+- ✅ Exibição de serviços disponíveis
 
 # Telas📱
 
