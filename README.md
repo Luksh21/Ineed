@@ -8,21 +8,22 @@
 - Plataforma de Conexão entre Prestadores de Serviços e Clientes
 
 ---
+## ⚙️ Tecnologias Utilizadas
+- React Native com Expo (O projeto está sendo desenvolvido puramente em React)
+- Supabase (Banco de dados e autenticação)
+- HTML, CSS, JavaScript (interface Web para o Prestador de Serviço). Projeto HTML em estágio inicial. Será implementado futuramente
+
 
 # Telas📱
 
 ### Tela Inicial do App:
 
-<!-- IMPORTANTE: Imagens do Google Drive com /view não funcionam diretamente no README. Use o link direto da imagem. -->
-
-<h3>Tela Inicial do App:</h3>
-
 <p align="center">
   <img src="https://i.imgur.com/ROAvqMF.jpeg" alt="Tela inicial do app" height="400"/>
 </p>
-<p align="center">
-  <img src="https://i.imgur.com/3cYfuaQ.gif" alt="Vídeo animado" height="400"/>
-</p>
-
 
 ### Tela de Cadastro do App:
+
+<p align="center">
+  <img src="https://i.imgur.com/codECX4.jpeg" alt="Tela inicial do app" height="400"/> <img src="https://i.imgur.com/tZEtQti.jpeg" alt="Tela inicial do app" height="400"/>
+</p>
