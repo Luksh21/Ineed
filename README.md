@@ -15,10 +15,14 @@
 
 <!-- IMPORTANTE: Imagens do Google Drive com /view não funcionam diretamente no README. Use o link direto da imagem. -->
 
+<h3>Tela Inicial do App:</h3>
+
 <p align="center">
   <img src="https://i.imgur.com/ROAvqMF.jpeg" alt="Tela inicial do app" height="400"/>
-  
 </p>
- ![Demonstração animada](https://i.imgur.com/3cYfuaQ.gif)
+<p align="center">
+  <img src="https://i.imgur.com/3cYfuaQ.gif" alt="Vídeo animado" height="400"/>
+</p>
+
 
 ### Tela de Cadastro do App:
