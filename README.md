@@ -23,7 +23,7 @@
 
 # Telas📱
 
-### Tela Inicial do App:
+### 🏚️ Tela Inicial do App:
 
 <p align="center">
   <img src="https://i.imgur.com/ROAvqMF.jpeg" alt="Tela inicial do app" height="400"/>
