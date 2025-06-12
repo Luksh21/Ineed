@@ -16,6 +16,12 @@
 
 ---
 
+## 📌 Sobre o Projeto
+
+O **Ineed Serviços** é um aplicativo que conecta clientes a prestadores de serviços diversos com inspiração no **Ifood** e **Instagram**, facilitando o processo de busca, cadastro e acesso aos profissionais da sua região. Está sendo desenvolvido em React Native com integração à Supabase, garantindo uma experiência leve e acessível.
+
+---
+
 ## 🧪 Como testar o app
 
 Você pode testar o aplicativo de duas formas:
@@ -36,12 +42,6 @@ Você pode testar o aplicativo de duas formas:
 2. Aguarde o carregamento da interface;
 3. Use o app diretamente no navegador ou emule dispositivos Android/iOS (opções à direita);
 4. Você também pode explorar e editar o código;
-
----
-
-## 📌 Sobre o Projeto
-
-O **Ineed Serviços** é um aplicativo que conecta clientes a prestadores de serviços diversos com inspiração no **Ifood** e **Instagram**, facilitando o processo de busca, cadastro e acesso aos profissionais da sua região. Está sendo desenvolvido em React Native com integração à Supabase, garantindo uma experiência leve e acessível.
 
 ---
 
