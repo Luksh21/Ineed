@@ -13,7 +13,7 @@
 <p align="center">
   Plataforma de Conexão entre Prestadores de Serviços e Clientes
 </p>
----
+
 ## ⚙️ Tecnologias Utilizadas
 - React Native com Expo (O projeto está sendo desenvolvido puramente em React)
 - Supabase (Banco de dados e autenticação)
