@@ -23,7 +23,7 @@ Você pode testar o aplicativo de duas formas:
 ### 📱 Pelo celular (usando o Expo Go)
 
 1. Baixe o app "Expo Go" (disponível na Play Store ou App Store);
-2. Clique no botão acima "Testar no Expo Snack", vá em "My Device" no canto direito (será exibido um QR Code para ser escaneado no app Expo Go);
+2. Clique no botão acima "Testar no Expo Snack", vá em "My Device" no canto direito (um QR Code será exibido para ser escaneado no app Expo Go);
 3. Abra o Expo Go no celular;
 4. Vá em Scan QR Code e escaneie o QR Code do projeto;
 
@@ -57,7 +57,7 @@ O **Ineed Serviços** é um aplicativo que conecta clientes a prestadores de ser
 
 - ✅ Cadastro de clientes
 - ✅ Login com autenticação via Supabase
-- ✅ Cadastro via `supabase.auth.signUp`
+- ✅ Cadastro de usuários com `supabase.auth.signUp`
 - ✅ Exibição de serviços disponíveis
 - 🚧 Cadastro de prestadores (em desenvolvimento)
 
