@@ -1,12 +1,21 @@
 # Ineed Serviços - Você precisa, a gente encontra!!!
 
 
+# Ineed Serviços - Você precisa, a gente encontra!!!
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cdf91c47-d570-4516-ae7f-46e25bf314dd" alt="Ineed logo" width="400"/>
 </p>
 
-- Plataforma de Conexão entre Prestadores de Serviços e Clientes
+<p align="center">
+  <a href="https://snack.expo.dev/@luksz/login" target="_blank">
+    <img src="https://img.shields.io/badge/👉%20Testar%20no%20Expo%20Snack-blue?style=for-the-badge" alt="Testar no Expo Snack" />
+  </a>
+</p>
 
+<p align="center">
+  Plataforma de Conexão entre Prestadores de Serviços e Clientes
+</p>
 ---
 ## ⚙️ Tecnologias Utilizadas
 - React Native com Expo (O projeto está sendo desenvolvido puramente em React)
