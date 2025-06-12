@@ -1,6 +1,6 @@
 # Ineed Serviços - Você precisa, a gente encontra!!!
 
-<!-- Redimensiona a imagem principal -->
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cdf91c47-d570-4516-ae7f-46e25bf314dd" alt="Ineed logo" width="400"/>
 </p>
