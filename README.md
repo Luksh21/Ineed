@@ -22,10 +22,11 @@ Você pode testar o aplicativo de duas formas:
 
 ### 📱 Pelo celular (usando o Expo Go)
 
-1. Baixe o app **Expo Go** na Play Store ou App Store;
-2. Clique no botão azul **"Testar no Expo Snack"** acima;
-3. No site do Expo Snack, clique em **"My Device"** (canto direito);
-4. Escaneie o QR Code com o app **Expo Go**.
+1. Baixe o app "Expo Go" (disponível na Play Store ou App Store);
+2. Clique no botão acima "Testar no Expo Snack", vá em "My Device" no canto direito (será exibido um QR Code para ser escaneado no app Expo Go);
+3. Abra o Expo Go no celular;
+4. Vá em Scan QR Code e escaneie o QR Code do projeto;
+
 
 ---
 
@@ -33,8 +34,14 @@ Você pode testar o aplicativo de duas formas:
 
 1. Clique no botão **"Testar no Expo Snack"** acima;
 2. Aguarde o carregamento da interface;
-3. Use o app diretamente no navegador ou simule Android/iOS (opções à direita);
-4. Você também pode explorar e editar o código online!
+3. Use o app diretamente no navegador ou emule dispositivos Android/iOS (opções à direita);
+4. Você também pode explorar e editar o código;
+
+---
+
+## 📌 Sobre o Projeto
+
+O **Ineed Serviços** é um aplicativo que conecta clientes a prestadores de serviços diversos com inspiração no **Ifood** e **Instagram**, facilitando o processo de busca, cadastro e acesso aos profissionais da sua região. Está sendo desenvolvido em React Native com integração à Supabase, garantindo uma experiência leve e acessível.
 
 ---
 
@@ -92,7 +99,7 @@ Você pode testar o aplicativo de duas formas:
   🔧 Scripts utilitários e funções auxiliares reutilizáveis
 
 ---
-# Telas📱
+# Telas do App📱
 
 ### 🏚️ Tela Inicial:
 
