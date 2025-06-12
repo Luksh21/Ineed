@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://snack.expo.dev/@luksz/login" target="_blank">
-    <img src="https://img.shields.io/badge/👉%20Testar%20no%20Expo%20Snack-blue?style=for-the-badge" alt="Testar no Expo Snack" />
-  </a>
+  Plataforma de Conexão entre Prestadores de Serviços e Clientes
 </p>
 
 <p align="center">
-  Plataforma de Conexão entre Prestadores de Serviços e Clientes
+  <a href="https://snack.expo.dev/@luksz/login" target="_blank">
+    <img src="https://img.shields.io/badge/👉%20Testar%20no%20Expo%20Snack-blue?style=for-the-badge" alt="Testar no Expo Snack" />
+  </a>
 </p>
 
 ## ⚙️ Tecnologias Utilizadas
