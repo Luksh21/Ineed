@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://snack.expo.dev/@luksz/login" target="_blank">
+  <a href="https://snack.expo.dev/@luksz/ineed" target="_blank">
     <img src="https://img.shields.io/badge/👉%20Testar%20no%20Expo%20Snack-blue?style=for-the-badge" alt="Testar no Expo Snack" />
   </a>
 </p>
